@@ -1,3 +1,5 @@
+'use strict';
+
 const generateAbout = aboutText => {
   if (!aboutText) {
     return '';
